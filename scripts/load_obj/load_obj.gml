@@ -82,7 +82,11 @@ while(not file_text_eof(obj_file)){
 				var t = yy;
 				yy = zz;
 				zz = t;
-			
+				// If you do that you'll also need to swap the normals
+				var t = ny;
+				ny = nz;
+				nz = t;
+				
 				// Add the data to the vertex buffers
 				vertex_position_3d(model, xx, yy, zz);
 				vertex_normal(model, nx, ny, nz);
