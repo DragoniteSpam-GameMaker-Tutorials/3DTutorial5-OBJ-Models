@@ -1,8 +1,12 @@
 {
-    "id": "80139f2d-2a8b-4ba5-9ea6-5b4c4d7832d6",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "load_obj",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "isDnD": false,
+  "isCompatibility": false,
+  "parent": {
+    "name": "3DTutorial5-OBJ-Models-230",
+    "path": "3DTutorial5-OBJ-Models-230.yyp",
+  },
+  "resourceVersion": "1.0",
+  "name": "load_obj",
+  "tags": [],
+  "resourceType": "GMScript",
 }

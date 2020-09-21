@@ -1,8 +1,12 @@
 {
-    "id": "82fade53-b24f-4d30-9b28-fb601b1ea5af",
-    "modelName": "GMScript",
-    "mvc": "1.0",
-    "name": "vertex_point_add",
-    "IsCompatibility": false,
-    "IsDnD": false
+  "isDnD": false,
+  "isCompatibility": false,
+  "parent": {
+    "name": "3DTutorial5-OBJ-Models-230",
+    "path": "3DTutorial5-OBJ-Models-230.yyp",
+  },
+  "resourceVersion": "1.0",
+  "name": "vertex_point_add",
+  "tags": [],
+  "resourceType": "GMScript",
 }
