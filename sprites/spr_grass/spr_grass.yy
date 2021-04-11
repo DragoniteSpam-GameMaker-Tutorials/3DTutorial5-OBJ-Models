@@ -67,6 +67,7 @@
   "layers": [
     {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"9abe15d1-a30e-4dad-a6b8-16d23d5fe174","tags":[],"resourceType":"GMImageLayer",},
   ],
+  "nineSlice": null,
   "parent": {
     "name": "3DTutorial5-OBJ-Models-230",
     "path": "3DTutorial5-OBJ-Models-230.yyp",
