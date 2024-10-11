@@ -1,0 +1,14 @@
+{
+  "FolderOrderSettings":[],
+  "ResourceOrderSettings":[
+    {"name":"Camera","order":14,"path":"objects/Camera/Camera.yy",},
+    {"name":"GameObject","order":15,"path":"objects/GameObject/GameObject.yy",},
+    {"name":"room0","order":23,"path":"rooms/room0/room0.yy",},
+    {"name":"load_model","order":20,"path":"scripts/load_model/load_model.yy",},
+    {"name":"load_obj","order":21,"path":"scripts/load_obj/load_obj.yy",},
+    {"name":"vertex_point_add","order":22,"path":"scripts/vertex_point_add/vertex_point_add.yy",},
+    {"name":"spr_grass","order":18,"path":"sprites/spr_grass/spr_grass.yy",},
+    {"name":"sprite_decoration","order":19,"path":"sprites/sprite_decoration/sprite_decoration.yy",},
+    {"name":"ts_grass","order":17,"path":"tilesets/ts_grass/ts_grass.yy",},
+  ],
+}

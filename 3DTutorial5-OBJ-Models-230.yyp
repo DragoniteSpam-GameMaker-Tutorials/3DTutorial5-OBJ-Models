@@ -1,50 +1,45 @@
 {
-  "resources": [
-    {"id":{"name":"spr_grass","path":"sprites/spr_grass/spr_grass.yy",},"order":18,},
-    {"id":{"name":"sprite_decoration","path":"sprites/sprite_decoration/sprite_decoration.yy",},"order":19,},
-    {"id":{"name":"ts_grass","path":"tilesets/ts_grass/ts_grass.yy",},"order":17,},
-    {"id":{"name":"vertex_point_add","path":"scripts/vertex_point_add/vertex_point_add.yy",},"order":22,},
-    {"id":{"name":"load_model","path":"scripts/load_model/load_model.yy",},"order":20,},
-    {"id":{"name":"load_obj","path":"scripts/load_obj/load_obj.yy",},"order":21,},
-    {"id":{"name":"Camera","path":"objects/Camera/Camera.yy",},"order":14,},
-    {"id":{"name":"GameObject","path":"objects/GameObject/GameObject.yy",},"order":15,},
-    {"id":{"name":"room0","path":"rooms/room0/room0.yy",},"order":23,},
+  "$GMProject":"",
+  "%Name":"3DTutorial5-OBJ-Models-230",
+  "AudioGroups":[
+    {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
   ],
-  "Options": [
-    {"name":"Linux","path":"options/linux/options_linux.yy",},
-    {"name":"Windows","path":"options/windows/options_windows.yy",},
-    {"name":"macOS","path":"options/mac/options_mac.yy",},
-    {"name":"Main","path":"options/main/options_main.yy",},
-    {"name":"HTML5","path":"options/html5/options_html5.yy",},
-  ],
-  "isDnDProject": false,
-  "isEcma": false,
-  "tutorialPath": "",
-  "configs": {
-    "name": "Default",
-    "children": [],
+  "configs":{
+    "children":[],
+    "name":"Default",
   },
-  "RoomOrderNodes": [
+  "defaultScriptType":1,
+  "Folders":[],
+  "IncludedFiles":[
+    {"$GMIncludedFile":"","%Name":"barrel.d3d","CopyToMask":-1,"filePath":"datafiles","name":"barrel.d3d","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+    {"$GMIncludedFile":"","%Name":"rock_c.d3d","CopyToMask":-1,"filePath":"datafiles","name":"rock_c.d3d","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+    {"$GMIncludedFile":"","%Name":"merry2.obj","CopyToMask":-1,"filePath":"datafiles","name":"merry2.obj","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+    {"$GMIncludedFile":"","%Name":"merry.obj","CopyToMask":-1,"filePath":"datafiles","name":"merry.obj","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+  ],
+  "isEcma":false,
+  "LibraryEmitters":[],
+  "MetaData":{
+    "IDEVersion":"2.3.2.556",
+  },
+  "name":"3DTutorial5-OBJ-Models-230",
+  "resources":[
+    {"id":{"name":"Camera","path":"objects/Camera/Camera.yy",},},
+    {"id":{"name":"GameObject","path":"objects/GameObject/GameObject.yy",},},
+    {"id":{"name":"room0","path":"rooms/room0/room0.yy",},},
+    {"id":{"name":"load_model","path":"scripts/load_model/load_model.yy",},},
+    {"id":{"name":"load_obj","path":"scripts/load_obj/load_obj.yy",},},
+    {"id":{"name":"vertex_point_add","path":"scripts/vertex_point_add/vertex_point_add.yy",},},
+    {"id":{"name":"spr_grass","path":"sprites/spr_grass/spr_grass.yy",},},
+    {"id":{"name":"sprite_decoration","path":"sprites/sprite_decoration/sprite_decoration.yy",},},
+    {"id":{"name":"ts_grass","path":"tilesets/ts_grass/ts_grass.yy",},},
+  ],
+  "resourceType":"GMProject",
+  "resourceVersion":"2.0",
+  "RoomOrderNodes":[
     {"roomId":{"name":"room0","path":"rooms/room0/room0.yy",},},
   ],
-  "Folders": [],
-  "AudioGroups": [
-    {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},
+  "templateType":null,
+  "TextureGroups":[
+    {"$GMTextureGroup":"","%Name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","customOptions":"","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"name":"Default","resourceType":"GMTextureGroup","resourceVersion":"2.0","targets":-1,},
   ],
-  "TextureGroups": [
-    {"isScaled":true,"autocrop":true,"border":2,"mipsToGenerate":0,"groupParent":null,"targets":-1,"resourceVersion":"1.3","name":"Default","resourceType":"GMTextureGroup",},
-  ],
-  "IncludedFiles": [
-    {"CopyToMask":-1,"filePath":"datafiles","resourceVersion":"1.0","name":"barrel.d3d","resourceType":"GMIncludedFile",},
-    {"CopyToMask":-1,"filePath":"datafiles","resourceVersion":"1.0","name":"rock_c.d3d","resourceType":"GMIncludedFile",},
-    {"CopyToMask":-1,"filePath":"datafiles","resourceVersion":"1.0","name":"merry2.obj","resourceType":"GMIncludedFile",},
-    {"CopyToMask":-1,"filePath":"datafiles","resourceVersion":"1.0","name":"merry.obj","resourceType":"GMIncludedFile",},
-  ],
-  "MetaData": {
-    "IDEVersion": "2.3.2.556",
-  },
-  "resourceVersion": "1.4",
-  "name": "3DTutorial5-OBJ-Models-230",
-  "tags": [],
-  "resourceType": "GMProject",
 }
