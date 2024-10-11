@@ -12,14 +12,14 @@
   "Folders":[],
   "IncludedFiles":[
     {"$GMIncludedFile":"","%Name":"barrel.d3d","CopyToMask":-1,"filePath":"datafiles","name":"barrel.d3d","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
-    {"$GMIncludedFile":"","%Name":"rock_c.d3d","CopyToMask":-1,"filePath":"datafiles","name":"rock_c.d3d","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
-    {"$GMIncludedFile":"","%Name":"merry2.obj","CopyToMask":-1,"filePath":"datafiles","name":"merry2.obj","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
     {"$GMIncludedFile":"","%Name":"merry.obj","CopyToMask":-1,"filePath":"datafiles","name":"merry.obj","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+    {"$GMIncludedFile":"","%Name":"merry2.obj","CopyToMask":-1,"filePath":"datafiles","name":"merry2.obj","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
+    {"$GMIncludedFile":"","%Name":"rock_c.d3d","CopyToMask":-1,"filePath":"datafiles","name":"rock_c.d3d","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
   ],
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2.3.2.556",
+    "IDEVersion":"2024.8.1.171",
   },
   "name":"3DTutorial5-OBJ-Models-230",
   "resources":[
